@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'https://kartikkh.github.io/';
+$siteOwnersEmail = 'khandelwal.kartik4@gmail.com';
 
 
 if($_POST) {
