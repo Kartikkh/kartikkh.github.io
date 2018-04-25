@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="231" column="38" lean-forward="false" selection-start-line="231" selection-start-column="38" selection-end-line="231" selection-end-column="38" />
+            <state relative-caret-position="226">
+              <caret line="854" column="20" lean-forward="true" selection-start-line="854" selection-start-column="20" selection-end-line="854" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -111,6 +111,19 @@
             <path>
               <item name="kartikkh.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="kartikkh.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kartikkh.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kartikkh.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="modals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kartikkh.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kartikkh.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -128,6 +141,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="info-list&#9;null&#9;null&#10;twitter&#9;null&#9;null&#10;medium&#9;FILE&#9;file://C:/Users/Kartik Khandelwal/Desktop/Kards10/fonts/poppins/poppins-medium-webfont.svg&#10;med&#9;null&#9;null&#10;linked&#9;null&#9;null&#10;intro-social&#9;null&#9;null" />
     <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/portfolio/modals" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,12 +175,12 @@
       <workItem from="1513724519947" duration="2455000" />
       <workItem from="1513756091516" duration="1457000" />
       <workItem from="1513771950959" duration="6659000" />
-      <workItem from="1524679629408" duration="147000" />
+      <workItem from="1524679629408" duration="945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10718000" />
+    <option name="totallyTimeSpent" value="11516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -293,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="231" column="38" lean-forward="false" selection-start-line="231" selection-start-column="38" selection-end-line="231" selection-end-column="38" />
+        <state relative-caret-position="226">
+          <caret line="854" column="20" lean-forward="true" selection-start-line="854" selection-start-column="20" selection-end-line="854" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
