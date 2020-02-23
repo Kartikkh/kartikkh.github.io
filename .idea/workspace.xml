@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +30,11 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="info-list&#9;null&#9;null&#10;twitter&#9;null&#9;null&#10;medium&#9;FILE&#9;file://C:/Users/Kartik Khandelwal/Desktop/Kards10/fonts/poppins/poppins-medium-webfont.svg&#10;med&#9;null&#9;null&#10;linked&#9;null&#9;null&#10;intro-social&#9;null&#9;null" />
@@ -47,18 +51,6 @@
       <recent name="$PROJECT_DIR$/images/portfolio/modals" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,7 +65,9 @@
       <workItem from="1513756091516" duration="1457000" />
       <workItem from="1513771950959" duration="6659000" />
       <workItem from="1524679629408" duration="2054000" />
-      <workItem from="1582468530902" duration="1040000" />
+      <workItem from="1582468530902" duration="2598000" />
+      <workItem from="1582471550087" duration="28000" />
+      <workItem from="1582471587290" duration="162000" />
     </task>
     <servers />
   </component>
@@ -88,10 +82,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582471563062">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="408" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.800@0.23.1440.800" timestamp="1582471563062" />
   </component>
 </project>
